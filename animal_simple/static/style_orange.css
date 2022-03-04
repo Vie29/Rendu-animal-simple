@@ -1,0 +1,16 @@
+h1{
+    text-align: center;
+    color:white;
+    background-color: black;
+    size: 20pt
+}
+
+h2{
+    text-align: center ;
+    color: brown;
+    size: 10pt;
+}
+
+body{
+    background: #f3bc09;
+}
